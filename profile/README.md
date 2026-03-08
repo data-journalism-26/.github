@@ -41,10 +41,15 @@ In the third part, you apply these skills by developing your own data journalism
 
 4. Collecting data: web, APIs, open sources [<a href="https://raw.githack.com/data-journalism-26/slides/main/04-collecting-data/04-collecting-data.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/04-collecting-data/04-collecting-data.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/04-collecting-data/04-collecting-data.Rmd" target="_blank">**.Rmd**</a>]
 
+5. Sampling and surveys [<a href="https://raw.githack.com/data-journalism-26/slides/main/05-surveys/05-surveys.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/05-surveys/05-surveys.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/05-surveys/05-surveys.Rmd" target="_blank">**.Rmd**</a>]
+
 
 ### Code
 
 4. Collecting data: web, APIs, open sources [<a href="https://raw.githack.com/data-journalism-26/code/main/collecting-data/collecting-web-data.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/collecting-data" target="_blank">**repo**</a>]
+
+5. Sampling and surveys [<a href="https://raw.githack.com/data-journalism-26/code/main/surveys/working-with-surveys.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/surveys" target="_blank">**repo**</a>]
+
 
 
 
