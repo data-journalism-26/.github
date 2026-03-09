@@ -14,21 +14,21 @@ In the third part, you apply these skills by developing your own data journalism
 ### Schedule
 
 
-|    | Session                                    | Date   |
-|----|--------------------------------------------|--------|
-| 1  | What is data journalism?                   | Feb 9  |
-| 2  | Global models of data journalism           | Feb 16 |
-| 3  | How people understand numbers and visuals  | Feb 23 |
-| 4  | Collecting data: web, APIs, open sources   | Mar 2  |
-| 5  | Dealing with numbers, samples, and surveys | Mar 9  |
-| 6  | Mapping and geodata                        | Mar 16 |
-| 7  | Designing effective visualizations         | Mar 23 |
-|    | **Spring break - 2 weeks!**                |        |
-| 8  | Interactive graphics and narrative structures | Apr 13 |
-| 9  | Writing with data                          | Apr 20 |
-| 10 | Engaging with experts I                    | Apr 27 |
-| 11 | Engaging with experts II                   | May 4  |
-| 12 | Final presentations                        | May 11 |
+|    | Session                                    | Date   | New date |
+|----|--------------------------------------------|--------|----------|
+| 1  | What is data journalism?                   | Feb 9  | Feb 9	  |
+| 2  | Global models of data journalism           | Feb 16 | Feb 16   |
+| 3  | How people understand numbers and visuals  | Feb 23 | Feb 23 |
+| 4  | Collecting data: web, APIs, open sources   | Mar 2  | Mar 2  |
+| 5  | Dealing with numbers, samples, and surveys | Mar 9  | Mar 9  |
+| 6  | Mapping and geodata                        | Mar 16 | Mar 16 |
+| 7  | Designing effective visualizations         | Mar 23 | **Apr 27** |
+|    | **Spring break - 2 weeks!**                |        |      |
+| 8  | Interactive graphics and narrative structures | Apr 13 | Apr 13 |
+| 9  | Writing with data                          | Apr 20 | Apr 20 |
+| 10 | Engaging with experts I                    | Apr 27 | -- |
+| 11 | Engaging with experts II                   | May 4  | May 4  |
+| 12 | Final presentations                        | May 11 | May 11 |
 
 
 ## Slides
