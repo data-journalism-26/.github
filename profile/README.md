@@ -20,8 +20,8 @@ In the third part, you apply these skills by developing your own data journalism
 | 2  | Global models of data journalism           | Feb 16 | Feb 16   |
 | 3  | How people understand numbers and visuals  | Feb 23 | Feb 23 |
 | 4  | Collecting data: web, APIs, open sources   | Mar 2  | Mar 2  |
-| 5  | Dealing with numbers, samples, and surveys | Mar 9  | Mar 9  |
-| 6  | Mapping and geodata                        | Mar 16 | Mar 16 |
+| 5  | Dealing with numbers, samples, and surveys | Mar 9  | Mar 9/16  |
+| 6  | Mapping and geodata                        | Mar 16 | Mar 16/23 |
 | 7  | Designing effective visualizations         | Mar 23 | **Apr 27** |
 |    | **Spring break - 2 weeks!**                |        |      |
 | 8  | Interactive graphics and narrative structures | Apr 13 | Apr 13 |
