@@ -21,10 +21,10 @@ In the third part, you apply these skills by developing your own data journalism
 | 3  | How people understand numbers and visuals  | Feb 23 | Feb 23 |
 | 4  | Collecting data: web, APIs, open sources   | Mar 2  | Mar 2  |
 | 5  | Dealing with numbers, samples, and surveys | Mar 9  | Mar 9/16  |
-| 6  | Mapping and geodata                        | Mar 16 | Mar 16/23 |
+| 6  | Mapping and geodata                        | Mar 16 | **Mar 23** |
 | 7  | Designing effective visualizations         | Mar 23 | **Apr 27** |
 |    | **Spring break - 2 weeks!**                |        |      |
-| 8  | Interactive graphics and narrative structures | Apr 13 | Apr 13 |
+| 8  | Interactive graphics and narrative structures (9-17h!) | Apr 13 | Apr 13 |
 | 9  | Writing with data                          | Apr 20 | Apr 20 |
 | 10 | Engaging with experts I                    | Apr 27 | -- |
 | 11 | Engaging with experts II                   | May 4  | May 4  |
@@ -43,12 +43,16 @@ In the third part, you apply these skills by developing your own data journalism
 
 5. Sampling and surveys [<a href="https://raw.githack.com/data-journalism-26/slides/main/05-surveys/05-surveys.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/05-surveys/05-surveys.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/05-surveys/05-surveys.Rmd" target="_blank">**.Rmd**</a>]
 
+6. Mapping and geodata [<a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.Rmd" target="_blank">**.Rmd**</a>]
+
 
 ### Code
 
 4. Collecting data: web, APIs, open sources [<a href="https://raw.githack.com/data-journalism-26/code/main/collecting-data/collecting-web-data.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/collecting-data" target="_blank">**repo**</a>]
 
 5. Sampling and surveys [<a href="https://raw.githack.com/data-journalism-26/code/main/surveys/working-with-surveys.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/surveys" target="_blank">**repo**</a>]
+
+6. Maps and geodata [<a href="https://raw.githack.com/data-journalism-26/code/main/geodata/working-with-geodata.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/geodata" target="_blank">**repo**</a>]
 
 
 
