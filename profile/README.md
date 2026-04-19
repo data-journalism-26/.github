@@ -45,6 +45,8 @@ In the third part, you apply these skills by developing your own data journalism
 
 6. Mapping and geodata [<a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.Rmd" target="_blank">**.Rmd**</a>]
 
+7. Writing [<a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.Rmd" target="_blank">**.Rmd**</a>]
+
 
 ### Code
 
