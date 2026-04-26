@@ -45,7 +45,9 @@ In the third part, you apply these skills by developing your own data journalism
 
 6. Mapping and geodata [<a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/06-maps-geodata/06-maps-geodata.Rmd" target="_blank">**.Rmd**</a>]
 
-7. Writing [<a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.Rmd" target="_blank">**.Rmd**</a>]
+7. Writing with data [<a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/07-writing/07-writing.Rmd" target="_blank">**.Rmd**</a>]
+
+8. Designing effective visualizations [<a href="https://raw.githack.com/data-journalism-26/slides/main/08-visualization/08-visualization.html" target="_blank">**.html**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/08-visualization/08-visualization.pdf" target="_blank">**.pdf**</a> | <a href="https://raw.githack.com/data-journalism-26/slides/main/08-visualization/08-visualization.Rmd" target="_blank">**.Rmd**</a>]
 
 
 ### Code
@@ -55,6 +57,8 @@ In the third part, you apply these skills by developing your own data journalism
 5. Sampling and surveys [<a href="https://raw.githack.com/data-journalism-26/code/main/surveys/working-with-surveys.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/surveys" target="_blank">**repo**</a>]
 
 6. Maps and geodata [<a href="https://raw.githack.com/data-journalism-26/code/main/geodata/working-with-geodata.html" target="_blank">**.html**</a> | <a href="https://github.com/data-journalism-26/code/tree/main/geodata" target="_blank">**repo**</a>]
+
+8. Designing effective visualizations [<a href="https://github.com/data-journalism-26/code/tree/main/visualization" target="_blank">**repo**</a>]
 
 
 
